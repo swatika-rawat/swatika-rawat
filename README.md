@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swatika Rawat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PHP Laravel, NodeJS, ElasticStack
-- 💞️ I’m looking to collaborate on open source project
+- 💞️ I’m looking to collaborate in open source project
 - 📫 How to reach me via email
 
 <!---
